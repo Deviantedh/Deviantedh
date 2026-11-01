@@ -69,7 +69,7 @@ Bridging the stack from digital logic and microcontroller registers up to distri
 
 | Repository | Domain | Description | Architecture / Stack |
 | :--- | :--- | :--- | :--- |
-| [**`SplendidDarwin`**](https://github.com/Deviantedh/SplendidDarwin) | **Systems / Audio** | **AirPlay Audio Receiver for Android 2.3:** Native C audio engine running on legacy Android, utilizing custom mDNS / DNS-SD packet broadcasting and JNI bridge to Android AudioTrack. | `C`, `Android NDK r14b`, `JNI`, `mDNS`, `Sockets` |
+| [**`android-airplay-receiver`**](https://github.com/Deviantedh/android-airplay-receiver) | **Systems / Audio** | **AirPlay Audio Receiver for Android 2.3+:** Native C audio engine running on legacy Android, utilizing custom mDNS / DNS-SD packet broadcasting and JNI bridge to Android AudioTrack / OpenSL ES. | `C`, `Android NDK r14b`, `JNI`, `mDNS`, `Sockets` |
 | [**`ITMO`**](https://github.com/Deviantedh/ITMO) | **Academic Portfolio** | **Comprehensive 4-year engineering archive:** 30+ university courses covering enterprise highload backends, low-level POSIX concurrency, digital circuits, and networks. | `Java 21`, `Spring Boot 3`, `PostgreSQL`, `C++`, `SystemVerilog` |
 | [**`iot-terminal-ui`**](https://github.com/Deviantedh/iot-terminal-ui) | **Embedded / IoT** | **Embedded Hardware Interfaces:** Microcontroller firmware, sensor telemetry, and terminal-based interactive control for connected devices. | `C++`, `ESP8266`, `Arduino Core`, `UART` |
 | [**`os-course`**](https://github.com/Deviantedh/os-course) | **Systems Programming** | **Operating Systems Implementation:** POSIX system calls, process scheduling, memory allocation, and concurrency synchronization primitives. | `C++`, `Linux POSIX API`, `CMake` |
