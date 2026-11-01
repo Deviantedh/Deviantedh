@@ -42,49 +42,26 @@ Bridging the stack from digital logic and microcontroller registers up to distri
 
 ---
 
-### Tech Stack & Tooling
+### Tech Stack & Experience
 
 <div align="center">
 
-#### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash&theme=dark" alt="Languages" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/SystemVerilog-005F9E?style=flat-square&logo=ieee&logoColor=white" alt="SystemVerilog" />
-  <img src="https://img.shields.io/badge/Assembly_x86%20%2F%20RISC--V-4B0082?style=flat-square" alt="Assembly" />
-  <img src="https://img.shields.io/badge/SQL_PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-#### Backend & Infrastructure
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,postgres,docker,linux,nginx,git&theme=dark" alt="Backend & Infra" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Hibernate_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/Flyway_Migrations-CC0202?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
-  <img src="https://img.shields.io/badge/REST_API_Design-005571?style=flat-square" alt="REST" />
-</p>
-
-#### Embedded, IoT & Low-Level
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
-  <img src="https://img.shields.io/badge/STM32_ARM_Cortex-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/ESP8266_%2F_ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP" />
-  <img src="https://img.shields.io/badge/Android_NDK_%2F_JNI-3DDC84?style=flat-square&logo=android&logoColor=white" alt="NDK" />
-  <img src="https://img.shields.io/badge/Protocols-UART_|_SPI_|_I2C-555555?style=flat-square" alt="Protocols" />
-</p>
-
-#### Testing & Quality Assurance
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" />
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
-  <img src="https://img.shields.io/badge/Mockito-C5D539?style=flat-square" alt="Mockito" />
-  <img src="https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" alt="JMeter" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,c,cpp,py,linux,git,postman,arduino&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 </div>
+
+#### Primary Stack (Уверенно владею)
+* **Java & Backend:** Java 21, Spring Boot, Hibernate (JPA), REST APIs.
+* **Systems Programming:** C / C++, Linux POSIX API, memory management, multithreading & concurrency.
+* **Databases & DevOps:** PostgreSQL, Docker, Linux environment, Bash, Git.
+
+#### Systems & Embedded Experience (Работал в реальных проектах)
+* **Native & Mobile:** Android NDK (C, JNI, network sockets, mDNS audio streaming).
+* **Microcontrollers & IoT:** STM32 (ARM Cortex, SDK, UART), ESP8266 / Arduino firmware, hardware telemetry.
+* **Digital Hardware:** SystemVerilog RTL, digital circuit analysis and simulation in Logisim.
+* **Testing:** JUnit 5, Mockito, unit & integration testing.
 
 ---
 
